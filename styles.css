@@ -70,3 +70,6 @@
     margin: auto;
     padding: 50px 100px;
 }
+.container2{
+    display: flex;
+}
