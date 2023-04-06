@@ -94,6 +94,12 @@
     margin: 16px 30px;
     margin-top: 0;
     font-size: 18px;
-    color: #86878a;
+    color: #1F2937;
     font-family: 'Courier New', Courier, monospace;
+}
+.container2 .headertxt2{
+    padding: 16px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
 }
